@@ -59,14 +59,6 @@
 
 ---
 
-## 💰 비용 / 보안
-
-- **전부 무료 플랜으로 완수** (Make Free, Zapier Free, Gemini 무료 API, Discord 무료).
-- 유료 기능 대안: Zapier Paths(유료) → Filter+Zap 2개 / Webhooks(유료) → Forms 네이티브 트리거.
-- 모든 스크린샷의 **API Key·토큰·웹훅 URL은 `***` 마스킹**, 계정 이메일은 일부 가림 처리.
-
----
-
 ## 📄 제출 방법
 1. `04`, `05` 문서를 VS Code 미리보기(Ctrl+Shift+V)로 이미지 확인
 2. "Markdown PDF" 확장 등으로 **PDF 변환** 후 제출
